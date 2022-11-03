@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ARIMA4.py
+web: sh setup.sh.txt && streamlit run ARIMA4.py
