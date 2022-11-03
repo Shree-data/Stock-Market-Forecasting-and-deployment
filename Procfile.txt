@@ -1,0 +1,1 @@
+web: sh setup.shh && streamlit run ARIMA4.py
