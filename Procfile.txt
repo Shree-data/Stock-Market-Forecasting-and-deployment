@@ -1,1 +1,1 @@
-web: sh setup.shh && streamlit run ARIMA4.py
+web: gunicorn app ARIMA4
